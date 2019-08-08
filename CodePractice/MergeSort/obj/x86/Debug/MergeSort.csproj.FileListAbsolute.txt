@@ -1,4 +1,0 @@
-D:\William\CodePractice\CodePractice\MergeSort\bin\Debug\MergeSort.exe
-D:\William\CodePractice\CodePractice\MergeSort\bin\Debug\MergeSort.pdb
-D:\William\CodePractice\CodePractice\MergeSort\obj\x86\Debug\MergeSort.exe
-D:\William\CodePractice\CodePractice\MergeSort\obj\x86\Debug\MergeSort.pdb

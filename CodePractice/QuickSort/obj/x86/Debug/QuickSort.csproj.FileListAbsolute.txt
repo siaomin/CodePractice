@@ -1,4 +1,0 @@
-D:\William\CodePractice\CodePractice\QuickSort\bin\Debug\QuickSort.exe
-D:\William\CodePractice\CodePractice\QuickSort\bin\Debug\QuickSort.pdb
-D:\William\CodePractice\CodePractice\QuickSort\obj\x86\Debug\QuickSort.exe
-D:\William\CodePractice\CodePractice\QuickSort\obj\x86\Debug\QuickSort.pdb
