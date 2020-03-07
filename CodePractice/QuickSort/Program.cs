@@ -17,7 +17,7 @@ namespace QuickSort
             }
 
             //暫停畫面
-            System.Console.Read();
+            Console.Read();
         }
 
         private static void QuickSort(int[] nums, int left, int right)

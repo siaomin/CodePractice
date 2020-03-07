@@ -14,7 +14,7 @@ namespace MergeSort
             }
 
             //暫停畫面
-            System.Console.Read();
+            Console.Read();
         }
 
         private static void Divide(int[] nums, int first, int end)
